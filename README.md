@@ -22,7 +22,7 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/de-boumas-mack-lafond/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/tonhandle) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/tonhandle)
 
-### 🎨 Bonus visuel
+### 🎨 Stack Technique en image
 <img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" height="15%" width="15%"/> <img src="https://repository-images.githubusercontent.com/539560750/278d0bbf-6aaf-4f38-a18f-e328305bcd7b" height="15%" width="15%"/> <img src="https://delta-dev-software.fr/wp-content/uploads/2024/02/react-logo-freelogovectors.net_.png" height="15%" width="15%"/>
 
 
