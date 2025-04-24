@@ -18,6 +18,7 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 
 ## 📫 Me contacter :
 📧 **Email** : marlafond@gmail.com
+
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/de-boumas-mack-lafond/)  
 
 
