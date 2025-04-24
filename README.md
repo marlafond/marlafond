@@ -23,7 +23,7 @@ N'hésitez pas à prendre contact avec [moi](#) pour tout ce qui touche à la te
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/tonhandle) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/tonhandle)
 
 ### 🎨 Bonus visuel
-<img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" height="20%" width="50%"/>
+<img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" height="20%" width="20%"/>
 
 
 
